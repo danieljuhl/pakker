@@ -1,0 +1,25 @@
+{
+  "name": "pakker",
+  "version": "1.0.0",
+  "description": "Utility loader for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieljuhl/pakker"
+  },
+  "keywords": [
+    "loader",
+    "config",
+    "library",
+    "utility"
+  ],
+  "author": "Daniel Juhl <danieljuhl@gmail.com> (http://danieljuhl.dk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieljuhl/pakker/issues"
+  },
+  "homepage": "https://github.com/danieljuhl/pakker"
+}
